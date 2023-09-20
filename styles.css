@@ -1,0 +1,38 @@
+.first img{
+    width:40%;
+}
+.first{
+    display: inline;
+    position: relative;
+}
+.first h1{
+    position: relative;
+    left: 1193px;
+    bottom: 400px;
+}
+
+.linhas{
+    position: relative;
+    left: 987px;
+    bottom: 317px;
+}
+.second img{
+    width: 48%;
+    margin-top: -228px;
+    margin-left:895px;
+}
+.linhas-second{
+    margin-left: 70px;
+    margin-top: -275px;
+}
+.second h1{
+    position:relative;
+    margin-left: 300px;
+    margin-top: 10px;
+}
+#human{
+    position: relative;
+    margin-top: -336px;
+    left:137px;
+    font-size: 77px;
+}
