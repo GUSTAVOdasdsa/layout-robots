@@ -9,6 +9,7 @@
     position: relative;
     left: 1193px;
     bottom: 400px;
+   
 }
 
 .linhas{
@@ -35,4 +36,18 @@
     margin-top: -336px;
     left:137px;
     font-size: 77px;
+}
+.futuro h1{
+    bottom: 10px;
+    
+}
+#futurotitle{
+    position: relative;
+    bottom: -308px;
+    left: 635px;
+}
+.paragrafoshuman{
+    position: relative;
+    bottom: -360px;
+    left: 627px;
 }
